@@ -3,7 +3,7 @@ body{
     background-color: #F2FFFC;
     font-size: 120%;
     line-height: 1.5;
-    padding: 25px;
+    padding: 10px;
 }
 
 h1, h2 {
@@ -22,29 +22,12 @@ main h1{
 main div{
   width: 720px;
   margin: auto;
-  padding: 30px 0;
+  padding: 10px 0;
 }
 
 p{
     text-align: justify;
-    margin: 20px 0;
-}
-
-blockquote{
-  margin: 20px 40px;
-  background-color: #D9E5E3;
-  border: 10px solid #C2CCCA;
-  border-bottom-color: #333;
-  border-right-color: #FFF;
-}
-
-blockquote, aside, footer{
-  padding: 20px;
-}
-
-aside{
-  color: #F2FFFC;
-  background-color: #3C1D3D;
+    margin: 10px 0;
 }
 
 footer{
@@ -58,20 +41,6 @@ nav a{
 
 main a{
   color: #851944;
-}
-
-aside a {
-    color: inherit;
-    font-family: "Open Sans Condensed", sans-serif;
-}
-
-aside {
-  text-align: center;
-}
-
-aside h1{
-  font-size: 30px;
-  margin-bottom: 25px;
 }
 
 strong {
@@ -94,5 +63,5 @@ img.resize {
 
 h1 {
   font-size: 30px;
-  padding: 25px;
+  padding: 5px;
 }
